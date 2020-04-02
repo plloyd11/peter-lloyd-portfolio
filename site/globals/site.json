@@ -1,10 +1,10 @@
 {
-    "name": "Skeleventy",
-    "url": "https://skeleventy.netlify.com",
+    "name": "Peter Lloyd Portfolio",
+    "url": "http://peterlloyd.digital/",
     "author": {
-        "name": "Max Power",
-        "email": "hello@maxpower.com",
-        "handle": "@maxpower",
+        "name": "Peter Lloyd",
+        "email": "plloyd11@gmail.com",
+        "handle": "@leteployd",
         "avatar": "/images/blog/author.jpg"
     },
     "images": {
@@ -19,15 +19,15 @@
         "linkedin": "https://www.linkedin.com"
     },
     "address": {
-        "street": "123 Fake Street",
-        "street_2": "Fake Road",
-        "city": "London",
-        "postcode": "LN1 234",
-        "country": "GB"
+        "street": "34 Waldo Ave",
+        "street_2": "Apt 2",
+        "city": "Jersey City",
+        "postcode": "07306",
+        "country": "USA"
     },
     "contact": {
-        "phone": "123 456 789",
-        "mobile": "(+44) 1234 5678",
-        "email": "hello@maxpower.com"
+        "phone": "848-234-9419",
+        "mobile": "848-234-9419",
+        "email": "plloyd11@gmail.com"
     }
 }
