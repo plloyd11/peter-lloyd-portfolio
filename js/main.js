@@ -243,8 +243,8 @@ var $$ = {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/plloyd/Desktop/web-development/peter-lloyd-portfolio/resources/js/main.js */"./resources/js/main.js");
-module.exports = __webpack_require__(/*! /Users/plloyd/Desktop/web-development/peter-lloyd-portfolio/resources/sass/main.scss */"./resources/sass/main.scss");
+__webpack_require__(/*! /Users/pete/Desktop/web-development/peter-lloyd-portfolio/resources/js/main.js */"./resources/js/main.js");
+module.exports = __webpack_require__(/*! /Users/pete/Desktop/web-development/peter-lloyd-portfolio/resources/sass/main.scss */"./resources/sass/main.scss");
 
 
 /***/ })
